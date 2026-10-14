@@ -1,0 +1,12 @@
+JuegoDeEstrategia;Mistery Shadow;true;Hardcore
+JuegoDeRol;Uzumaki;true;7
+JuegoDeCartas;Truco;true;3
+JuegoDeRol;Dark Memory;true;4
+JuegoDeCartas;Balatro;true;4
+JuegoDeEstrategia;Magic Strange;true;normal
+JuegoDeEstrategia;Chinchon;true;facil
+JuegoDeEstrategia;Ajedres;true;2 jugadores
+JuegoDeRol;el martillo;true;4
+JuegoDeRol;Baldurs Gaites;true;7
+JuegoDeEstrategia;prueba;true;basica
+JuegoDeRol;crimson desert;true;1

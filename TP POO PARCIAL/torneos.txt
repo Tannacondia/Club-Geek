@@ -1,0 +1,3 @@
+24749;Torneo del Poder;2025-11-04;7000;Uzumaki;admin@clubgeek.com
+1762210672433;Parense de manos;2026-12-01;5000000;Truco;admin@clubgeek.com
+1773919774288;la estrategia en tus manos;2025-12-01;500000;Ajedres;admin@clubgeek.com
